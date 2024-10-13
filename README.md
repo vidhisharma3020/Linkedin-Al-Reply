@@ -60,6 +60,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # Linkedin-Al-Reply
 ### Demo Video
-![Demo Video](https://github.com/Yvidhisharma3020/Linkedin-AI-Reply/blob/assets/demo-video.mp4)
+![Demo Video](https://github.com/Yvidhisharma3020/Linkedin-AI-Reply/blob/./assets/demo-video.mp4)
 
 >>>>>>> 
