@@ -1,4 +1,16 @@
 <<<<<<< HEAD
+# LinkedIn AI Reply
+This project aims to enhance productivity on LinkedIn by offering AI-generated replies to messages. It leverages machine learning to help users craft professional responses quickly and efficiently.
+
+# Features
+AI-Powered Replies: Automatically generate relevant replies to LinkedIn messages.
+
+Efficient Communication: Save time by choosing from personalized response suggestions.
+
+User-Friendly Interface: Simple and intuitive design for easy use.
+
+This extension is designed to streamline communication, making it easier for professionals to respond to messages promptly with minimal effort. Perfect for anyone looking to enhance their LinkedIn networking experience!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
