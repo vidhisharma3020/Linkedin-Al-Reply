@@ -62,7 +62,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Demo Video
 
 <a href="https://youtu.be/GyxVQKj9c8k" target="_blank">
-    <img src="https://youtu.be/GyxVQKj9c8k" alt="Watch the video" width="300" />
+    Demo-video
 </a>
 
 
