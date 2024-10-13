@@ -1,19 +1,27 @@
-import React, { useState } from 'react';
-import AIIcon from './components/AIIcon';
-import AIReplyModal from './components/AIReplyModal';
-import './index.css';
+import React from "react";
+import AIIcon from "./AIIcon";
+import PromptModal from "./PromptModal";
 
-const App: React.FC = () => {
-  const [showModal, setShowModal] = useState<boolean>(false);
+interface AppProps {
+  insertResponse: (res: string) => void;
+  render: (mV: boolean) => void;
+}
 
+const App: React.FC<AppProps> = ({ render, insertResponse }) => {
   return (
-    <div className="app-container">
-      <AIIcon onClick={() => setShowModal(true)} />
-
-      {showModal && (
-        <AIReplyModal showModal={showModal} setShowModal={setShowModal} />
-      )}
-    </div>
+    <>
+      <AIIcon
+        onClick={() => {
+          render(false);
+        }}
+      />
+      <PromptModal
+        onClose={() => {
+          render(false);
+        }}
+        insertResponse={insertResponse}
+      />
+    </>
   );
 };
 
