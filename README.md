@@ -60,7 +60,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # Linkedin-Al-Reply
 ## Demo Video
-![Demo](./assets/demo-video.mp4)
+
+<a href="https://youtu.be/GyxVQKj9c8k" target="_blank">
+    <img src="https://youtu.be/GyxVQKj9c8k" alt="Watch the video" width="300" />
+</a>
+
 
 
 >>>>>>> 
